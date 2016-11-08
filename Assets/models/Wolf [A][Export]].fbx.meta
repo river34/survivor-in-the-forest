@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 7e650048f2fd677448b89ac88660fe5e
+timeCreated: 1475547862
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: back_claw_l_001
+    100004: back_claw_r_001
+    100006: Bone
+    100008: Bone_001
+    100010: Bone_002
+    100012: Bone_003
+    100014: Bone_004
+    100016: Bone_005
+    100018: Bone_006
+    100020: Bone_007
+    100022: Bone_008
+    100024: Bone_009
+    100026: Bone_010
+    100028: Bone_011
+    100030: Bone_012
+    100032: Bone_013
+    100034: Bone_014
+    100036: Bone_015
+    100038: Bone_016
+    100040: Bone_017
+    100042: Bone_018
+    100044: Bone_019
+    100046: eyes_001
+    100048: front_claw_l_001
+    100050: front_claw_r_001
+    100052: lower_teeth_001
+    100054: Retop__A_
+    100056: tongue_001
+    100058: upper_teeth_001
+    100060: //RootNode
+    400000: Armature
+    400002: back_claw_l_001
+    400004: back_claw_r_001
+    400006: Bone
+    400008: Bone_001
+    400010: Bone_002
+    400012: Bone_003
+    400014: Bone_004
+    400016: Bone_005
+    400018: Bone_006
+    400020: Bone_007
+    400022: Bone_008
+    400024: Bone_009
+    400026: Bone_010
+    400028: Bone_011
+    400030: Bone_012
+    400032: Bone_013
+    400034: Bone_014
+    400036: Bone_015
+    400038: Bone_016
+    400040: Bone_017
+    400042: Bone_018
+    400044: Bone_019
+    400046: eyes_001
+    400048: front_claw_l_001
+    400050: front_claw_r_001
+    400052: lower_teeth_001
+    400054: Retop__A_
+    400056: tongue_001
+    400058: upper_teeth_001
+    400060: //RootNode
+    4300000: Retop__A_
+    4300002: eyes_001
+    4300004: tongue_001
+    4300006: lower_teeth_001
+    4300008: upper_teeth_001
+    4300010: front_claw_l_001
+    4300012: back_claw_l_001
+    4300014: back_claw_r_001
+    4300016: front_claw_r_001
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: back_claw_l_001
+    13700002: back_claw_r_001
+    13700004: eyes_001
+    13700006: front_claw_l_001
+    13700008: front_claw_r_001
+    13700010: lower_teeth_001
+    13700012: Retop__A_
+    13700014: tongue_001
+    13700016: upper_teeth_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_002/Bone_003
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_002/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_008
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_008/Bone_009
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_008/Bone_009/Bone_011
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_008/Bone_009/Bone_011/Bone_012
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_016
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_016/Bone_017
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_016/Bone_017/Bone_018
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_016/Bone_017/Bone_018/Bone_019
+        weight: 1
+      - path: Armature/Bone/Bone_010
+        weight: 1
+      - path: Armature/Bone/Bone_010/Bone_013
+        weight: 1
+      - path: Armature/Bone/Bone_010/Bone_013/Bone_014
+        weight: 1
+      - path: Armature/Bone/Bone_010/Bone_013/Bone_014/Bone_015
+        weight: 1
+      - path: back_claw_l_001
+        weight: 1
+      - path: back_claw_r_001
+        weight: 1
+      - path: eyes_001
+        weight: 1
+      - path: front_claw_l_001
+        weight: 1
+      - path: front_claw_r_001
+        weight: 1
+      - path: lower_teeth_001
+        weight: 1
+      - path: Retop__A_
+        weight: 1
+      - path: tongue_001
+        weight: 1
+      - path: upper_teeth_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 10
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_002/Bone_003
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_002/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_008
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_008/Bone_009
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_008/Bone_009/Bone_011
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_008/Bone_009/Bone_011/Bone_012
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_016
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_016/Bone_017
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_016/Bone_017/Bone_018
+        weight: 1
+      - path: Armature/Bone/Bone_005/Bone_006/Bone_016/Bone_017/Bone_018/Bone_019
+        weight: 1
+      - path: Armature/Bone/Bone_010
+        weight: 1
+      - path: Armature/Bone/Bone_010/Bone_013
+        weight: 1
+      - path: Armature/Bone/Bone_010/Bone_013/Bone_014
+        weight: 1
+      - path: Armature/Bone/Bone_010/Bone_013/Bone_014/Bone_015
+        weight: 1
+      - path: back_claw_l_001
+        weight: 1
+      - path: back_claw_r_001
+        weight: 1
+      - path: eyes_001
+        weight: 1
+      - path: front_claw_l_001
+        weight: 1
+      - path: front_claw_r_001
+        weight: 1
+      - path: lower_teeth_001
+        weight: 1
+      - path: Retop__A_
+        weight: 1
+      - path: tongue_001
+        weight: 1
+      - path: upper_teeth_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
